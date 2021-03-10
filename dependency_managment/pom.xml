@@ -6,11 +6,6 @@
   <artifactId>calculator-main</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
-  
-  <groupId>calculator</groupId>
-  <artifactId>calculator-main</artifactId>
-  <version>1.0</version>
-  <packaging>pom</packaging>
 
   <name>calculator_addition</name>
 

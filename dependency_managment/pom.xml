@@ -12,6 +12,7 @@
   <modules>
     <module>addition</module>
     <module>substraction</module>
+	<module>multiplication</module>
   </modules>
 
   <properties>
